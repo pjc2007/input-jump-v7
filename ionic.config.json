@@ -1,7 +1,10 @@
 {
   "name": "input-jump-v7",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
